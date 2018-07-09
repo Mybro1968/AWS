@@ -1,10 +1,3 @@
-###
-#Name : 03Boolean.py
-#Author : Gary Christie
-#Date : 03 Jul 2018
-#Purpose : Example of 
-###
-
 
 number1 = float(input("please enter the first number   "))
 number2 = float(input("Please enter the second number:   "))

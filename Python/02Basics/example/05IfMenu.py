@@ -1,8 +1,3 @@
-# Name : 05IfMenu
-# Author : Gary Christie
-# Date : 03 July 18
-# Purpose : Example of if menu
-
 print("Menu: ")
 print("1 - Add")
 print("2 - Amend")

@@ -1,6 +1,3 @@
-# Program : 01WriteTeams.py
-# Author  : Gary Christie
-# Date    : 05 Jul 2016
 # Purpose : writes a file with input for up to 5 names
 
 file = open("teams.txt","w")

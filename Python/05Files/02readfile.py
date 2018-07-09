@@ -1,8 +1,3 @@
-# Program : 02FileRead
-# Author  : Gary Christie
-# Date    : 05 Jul 2016
-# Purpose : Example to open and read file
-
 file = open("filename.txt","r")
 
 print("First line:")

@@ -1,8 +1,3 @@
-# Name : 06NestedIf
-# Author : Gary Christie
-# Date : 03 July 18
-# Purpose : Example of if menu
-
 print("Menu:")
 print("3 - Level 3")
 print("4 - Level 4")

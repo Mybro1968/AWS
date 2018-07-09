@@ -1,8 +1,3 @@
-# Name : 4.4factorial
-# Author : Gary Christie
-# Date : 03 July 18
-# Purpose : Exercise to calculate factorial.
-# example: 5! = 5x4x3x2x1 = 120
 
 #input request for number
 number1 = int(input("This application will provide the sum of the factors \nof a given number and output its sum. \n\nPlease enter a number:  "))

@@ -1,8 +1,3 @@
-# Name : 04List
-# Author : Gary Christie
-# Date : 03 July 2018
-# Purpose : Exercise of lists, sets, and dictionary
-
 fruit=["apple", "banana", "cranberry"]
 print(fruit)
 print(fruit[1])

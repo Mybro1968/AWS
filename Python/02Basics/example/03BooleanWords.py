@@ -1,9 +1,3 @@
-###
-#Name : 03BooleanWords.py
-#Author : Gary Christie
-#Date : 03 Jul 2018
-#Purpose : calculate the alphabetical order of two words
-###
 
 word1 = input("please input the first word:   ")
 word2 = input("please input the second word:   ")

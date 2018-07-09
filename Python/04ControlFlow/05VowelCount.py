@@ -1,10 +1,3 @@
-###
-# Name : 4.5CountVowels
-# Author : Gary Christie
-# Date : 04 July
-# Purpose : to count how many vowels in a given word
-###
-
 vowel_list=["a","e","i","o","u"]
 
 count_vowel = 0

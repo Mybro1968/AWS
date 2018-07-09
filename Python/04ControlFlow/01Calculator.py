@@ -1,8 +1,3 @@
-# Name : 01Calculator
-# Author : Gary Christie
-# Date : 03 July 18
-# Purpose : Calculator App
-
 number1 = float(input("Please enter the first number:  "))
 number2 = float(input("please enter the second number:  "))                
 
